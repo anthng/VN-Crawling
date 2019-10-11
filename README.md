@@ -34,7 +34,7 @@ Thank you for your contribution!
     OS: Ubuntu 18.04 LTS
     
     Language: Python 3.6.8
-
+trong
 ## Contact me:
-    email: thienan99dt[at]gmail[comcom
+    email: thienan99dt[at]gmail[com]
 
