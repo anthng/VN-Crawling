@@ -1,6 +1,6 @@
 # VNCrawling
 
-This is a repository contains crawling tools to scrape some website (include Linkedin, VnFoody, Vnexpress).
+This is a repository containing a crawling tool to scrape some websites (include Linkedin, VnFoody, Vnexpress).
 
 ---------------------------------------
 
@@ -34,7 +34,7 @@ Thank you for your contribution!
     OS: Ubuntu 18.04 LTS
     
     Language: Python 3.6.8
-trong
+
 ## Contact me:
     email: thienan99dt[at]gmail[com]
 
