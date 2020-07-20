@@ -34,7 +34,3 @@ Thank you for your contribution!
     OS: Ubuntu 18.04 LTS
     
     Language: Python 3.6.8
-
-## Contact me:
-    email: thienan99dt[at]gmail[dot]com
-
