@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 #author: thienan
-#email: thienan99dt@gmail.com
+#email: thienan99dt[at]gmail[dot]com
 #date: 03 May 2019
 
 from selenium import webdriver
